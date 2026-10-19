@@ -2,9 +2,13 @@
 
 # Hi there, I'm Fatma 👋
 
-### Backend Software Engineer
+### Senior Software Engineer · Solution Architect
 
-I build scalable web services and distributed systems for e-commerce, payments, and B2B products.
+Senior software engineer focused on distributed systems and solution architecture. I design scalable,
+resilient platforms that turn complex business requirements into reliable technical solutions.
+
+I am especially interested in architecture for AI-enabled products—building the secure, observable,
+and maintainable foundations they need to operate at scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatma_Abdelrahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-abdelrahman)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatmaabdelrahman68@gmail.com)
@@ -15,10 +19,12 @@ I build scalable web services and distributed systems for e-commerce, payments, 
 
 ## About me
 
-- 💻 Backend engineer with **7+ years of experience**
-- 🚀 Experienced in designing, building, and operating scalable services
-- 🛒 Worked across **e-commerce, payments, and B2B** domains
-- 🧩 Interested in distributed systems, clean architecture, and reliable integrations
+- 🏗️ Solution Architect at **Telecom Egypt**
+- 💻 Senior software engineer with **7+ years of experience**
+- 🚀 Experienced in designing, building, and operating scalable backend platforms
+- 🧩 Interested in distributed systems, software architecture, and reliable integrations
+- 🤖 Exploring how strong system design can support secure and scalable AI-enabled products
+- 🛒 Experienced across **telecommunications, e-commerce, payments, and B2B** domains
 - 📍 Based in Cairo, Egypt
 
 ## Skills 💡
@@ -69,8 +75,12 @@ I build scalable web services and distributed systems for e-commerce, payments, 
 
 ## Experience
 
+**Solution Architect — Telecom Egypt**
+
+2026 – Present
+
 **Backend Software Engineer — [Breadfast](https://www.breadfast.com/)**  
-May 2023 – Present
+May 2023 – 2026
 
 **Senior Backend Software Engineer — [Fatura](https://faturab2b.com/)**  
 January 2022 – April 2023
@@ -84,7 +94,7 @@ January 2019 – October 2021
 
 ### Let's connect
 
-I'm always happy to discuss backend engineering, distributed systems, and interesting opportunities.
+I'm always happy to discuss distributed systems, solution architecture, AI-ready platforms, and interesting opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/fatma-abdelrahman) • [Email](mailto:fatmaabdelrahman68@gmail.com)
 
